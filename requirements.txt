@@ -1,0 +1,8 @@
+streamlit
+groq
+pandas
+pypdf
+python-docx
+scikit-learn
+openpyxl
+xlrd
