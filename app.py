@@ -14,7 +14,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import os
 
 GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
-MODEL_ID = "llama-3.3-70b-versatile"
+MODEL_ID = "openai/gpt-oss-120b"
 CHUNK_SIZE = 900
 CHUNK_OVERLAP = 150
 TOP_K_CHUNKS = 5
